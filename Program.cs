@@ -68,7 +68,12 @@ namespace AtvGrupo
                 Console.WriteLine("Juntos para sempre (1h)");
                 Console.WriteLine("Como eu era antes de você (1h50m)");
                 Console.WriteLine("-------------------------------");
-             }               
+             }     
+
+             else {
+
+                 Console.WriteLine("DIGITE UMA DAS OPÇÕES CITADAS!!");
+             }          
 
 
 
