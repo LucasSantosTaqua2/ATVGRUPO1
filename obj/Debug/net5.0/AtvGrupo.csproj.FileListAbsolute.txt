@@ -1,0 +1,16 @@
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\bin\Debug\net5.0\AtvGrupo.exe
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\bin\Debug\net5.0\AtvGrupo.deps.json
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\bin\Debug\net5.0\AtvGrupo.runtimeconfig.json
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\bin\Debug\net5.0\AtvGrupo.runtimeconfig.dev.json
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\bin\Debug\net5.0\AtvGrupo.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\bin\Debug\net5.0\ref\AtvGrupo.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\bin\Debug\net5.0\AtvGrupo.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.csproj.AssemblyReference.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.AssemblyInfoInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.AssemblyInfo.cs
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.csproj.CoreCompileInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\ref\AtvGrupo.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\AtvGrupo\obj\Debug\net5.0\AtvGrupo.genruntimeconfig.cache
